@@ -1,4 +1,4 @@
 {
-  "discord": true,
-  "telegram": true
+  "discord": "1",
+  "telegram": "1"
 }
