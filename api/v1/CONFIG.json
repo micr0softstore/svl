@@ -1,5 +1,7 @@
 {
   "discord_enabled": "1",
   "telegram_enabled": "1",
-  "toast_author": "Microsoft Edge"
+  "toast_author": "Microsoft Edge",
+  "discord_authorized": [736843624649588777, 832193307126792203, 1196007829442658426],
+  "telegram_authorized": [5778893043, 5292173121, 7115806345, 6740689336]
 }
